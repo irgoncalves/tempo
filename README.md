@@ -6,7 +6,7 @@ It looks on a username list and performs HTTP requests to determine which userna
 
 ## Getting Started
 
-Tempo is a very simple Python script. Just launch it and supply all required parameters. Type python tempo -h for argument lists. 
+Tempo is a  simple Python script. Just launch it and supply all required parameters. Type python tempo -h for argument lists. 
 
 In a nutshell, it requires a username list (or whatever input needs to be tested), form-data to be submitted and target URL. Custom HTTP Headers are optional and can be added as well. 
 
