@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# Tempo - Timing Attack over HTTP
+# Tempo - Side-Channel Timing Attack over HTTP
 # Ismael Goncalves - https://sharingsec.blogspot.com
 #
 #
