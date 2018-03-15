@@ -1,6 +1,6 @@
 # Tempo
 
-Tempo is a simple tool to perform Timing Attacks over HTTP.
+Tempo is a simple tool to perform Side-Channel Timing Attacks over HTTP.
 
 It looks on a username list and performs HTTP requests to determine which usernames could be potentially valid based on the simple response time. It works better on a uniform connection to the target.
 
